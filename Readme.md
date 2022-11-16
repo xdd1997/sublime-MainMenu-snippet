@@ -8,7 +8,7 @@
 ## 使用方法
 
 1. 下载本仓库
-2. 将ddx文件夹放在 `C:\Users\xdd\AppData\Roaming\Sublime Text\Packages`文件夹内即可
+2. 将本仓库的文件夹放在 `C:\Users\xdd\AppData\Roaming\Sublime Text\Packages`文件夹内即可
 
 
 
