@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+"""${1:}
+
+Args:
+    ${2:}:
+    ${3:}:
+Returns:
+    float:${4:}
+Examples:
+    >>> 
+"""
+
+
+]]></content>
+	<tabTrigger>"""</tabTrigger>
+	<description>comment numpy样式</description>
+</snippet>

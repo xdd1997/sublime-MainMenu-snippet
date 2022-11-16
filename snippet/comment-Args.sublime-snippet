@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+"""${1:}
+
+Args:
+    ${2:}:
+    ${3:}:
+"""
+
+
+]]></content>
+	<tabTrigger>Args</tabTrigger>
+	<description>Args</description>
+</snippet>

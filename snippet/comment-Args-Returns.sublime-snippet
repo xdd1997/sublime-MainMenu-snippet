@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+"""${1:}
+
+Args:
+    ${2:}:
+    ${3:}:
+Returns:
+    float:${4:}
+"""
+
+
+]]></content>
+	<tabTrigger>Args</tabTrigger>
+	<description>Args--Returns</description>
+</snippet>

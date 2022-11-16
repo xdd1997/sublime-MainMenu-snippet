@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+import logging
+
+# low->high: DEBUG-INFO-WARN-ERROR-CRITICAL
+logging.basicConfig(level=logging.DEBUG, format='%(levelname)8s:%(message)s')
+logging.debug('信息')
+logging.info('信息')
+
+]]></content>
+	<tabTrigger>logging</tabTrigger>
+	<description>logging Python</description>
+</snippet>

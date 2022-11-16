@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+
+@Author    : xdd2026@qq.com
+@CreateData: ${1:Ctrl+Shift+Alt+d}
+@Filename  : $TM_FILENAME
+@Purpose   : 
+
+]]></content>
+	<tabTrigger>Author</tabTrigger>
+	<description>Author 通用版</description>
+</snippet>

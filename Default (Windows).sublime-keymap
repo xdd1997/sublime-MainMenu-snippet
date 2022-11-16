@@ -1,0 +1,7 @@
+[
+	{ "keys": ["ctrl+shift+alt+d"], "command": "insert_time" },
+	{ "keys": ["ctrl+shift+alt+a"], "command": "insert_author" },
+]
+
+
+

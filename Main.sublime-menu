@@ -1,0 +1,22 @@
+[
+    {   
+        "id":"date",
+        "caption": "date",
+        "command": "insert_time"
+    },
+
+    {
+        "caption": "其他(XDD)",
+        "id": "XDD",
+        "children":
+        [
+            { "command": "insert_author", "caption": "插入作者信息" },
+            { "command": "insert_numpy_short_comment", "caption": "插入numpy简介版注释" },
+            { "command": "insert_numpy_long_comment", "caption": "插入numpy详细版注释" },
+
+        ]
+    },
+
+]
+
+
